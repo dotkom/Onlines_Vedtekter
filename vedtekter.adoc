@@ -100,7 +100,7 @@ Komiteens hovedoppgave er å koordinere og gjennomføre sosiale arrangement. Kom
 
 ==== 4.2.2 Bank- og økonomikomiteen
 
-Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene, økonomiansvarlig i Online og leder av komiteen. Økonomiansvarlig i Online er komiteens styremedlem. Bank* og økonomikomiteen velger og godkjenner selv sin leder. Leder av Bank* og økonomikomiteen har møte* og talerett i Hovedstyret og skal ikke være økonomiansvarlig for en annen komité. Komiteens navn forkortes bankom.
+Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene, økonomiansvarlig i Online og leder av komiteen. Økonomiansvarlig i Online er komiteens styremedlem. Bank- og økonomikomiteen velger og godkjenner selv sin leder. Leder av Bank- og økonomikomiteen har møte- og talerett i Hovedstyret og skal ikke være økonomiansvarlig for en annen komité. Komiteens navn forkortes bankom.
 
 ==== 4.2.3 Bedriftskomiteen
 
@@ -124,7 +124,7 @@ Komiteens hovedoppgave er å sørge for økt trivsel blant informatikere i hverd
 
 ==== 4.2.8 Seniorkomiteen
 
-Komiteens hovedoppgave vil være å bistå med kunnskap, erfaring og assistanse i linjeforeningens daglige drift. Komiteens medlemmer skal primært bestå av medlemmer som har hatt et aktivt verv i linjeforeningen i fire (4) semester. Seniorkomiteen velger og godkjenner selv sin leder. Leder av Seniorkomiteen har møte* og talerett i Hovedstyret. Komiteens navn forkortes seniorkom.
+Komiteens hovedoppgave vil være å bistå med kunnskap, erfaring og assistanse i linjeforeningens daglige drift. Komiteens medlemmer skal primært bestå av medlemmer som har hatt et aktivt verv i linjeforeningen i fire (4) semester. Seniorkomiteen velger og godkjenner selv sin leder. Leder av Seniorkomiteen har møte- og talerett i Hovedstyret. Komiteens navn forkortes seniorkom.
 
 === 4.3 Nodekomiteer
 
@@ -170,7 +170,7 @@ Output er linjeforeningens band, hvis formål er å bistå som underholdning på
 
 === 4.5 Interessegrupper
 
-Interessegrupper kan opprettes av Online*medlemmer som ønsker å dekke et behov som gagner informatikkstudenter. Disse grupperingene formulerer sine egne retningslinjer og godkjennes av seniorkomiteen.
+Interessegrupper kan opprettes av Online-medlemmer som ønsker å dekke et behov som gagner informatikkstudenter. Disse grupperingene formulerer sine egne retningslinjer og godkjennes av seniorkomiteen.
 
 === 4.6 Permisjon eller oppsigelse fra komité
 
@@ -198,7 +198,7 @@ Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver in
 
 === 4.8 Vervvarighet
 
-Et verv i linjeforeningen kan vare i inntil seks (6) semestre fra og med semesteret man ble tatt opp. Dersom man ønsker å være et aktivt komitémedlem etter disse seks (6) semestrene kan man søke til Hovedstyret om forlengelse av Online*vervet for to semestre av gangen. Alle verv i kjernekomiteene i linjeforeningen teller på de seks vervsemestrene, inkludert verv i Hovedstyret, men ekskludert verv i seniorkomiteen.
+Et verv i linjeforeningen kan vare i inntil seks (6) semestre fra og med semesteret man ble tatt opp. Dersom man ønsker å være et aktivt komitémedlem etter disse seks (6) semestrene kan man søke til Hovedstyret om forlengelse av Online-vervet for to semestre av gangen. Alle verv i kjernekomiteene i linjeforeningen teller på de seks vervsemestrene, inkludert verv i Hovedstyret, men ekskludert verv i seniorkomiteen.
 
 === 4.9 Æresmedlemmer
 
@@ -318,7 +318,7 @@ Budsjettet skal være forsvarlig og det skal ikke, med mindre sterke grunner tal
 
 ==== 7.1.3 Revidering av budsjett
 
-Linjeforeningens budsjett for høstsemesteret kan revideres av Bank* og økonomikomiteen i løpet av våren. Revidert budsjett skal godkjennes av Hovedstyret innen 1. mai.
+Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomikomiteen i løpet av våren. Revidert budsjett skal godkjennes av Hovedstyret innen 1. mai.
 
 ==== 7.1.4 Offentliggjøring av budsjett
 
@@ -340,7 +340,7 @@ Vedtak om linjeforeningens oppløsning treffes av ordinær generalforsamling med
 
 ==== 8.2 Midler
 
-Ved oppløsning skal midler som linjeforeningen disponerer overføres som gave til Institutt for datateknologi og informatikk (IDI) ved Norges teknisk*naturvitenskaplige universitet. Midlene skal øremerkes til studentaktiviteter. Generalforsamlingen kan ved 2/3 kvalifisert flertall overføre midler til andre organisasjoner som jobber for studenter.
+Ved oppløsning skal midler som linjeforeningen disponerer overføres som gave til Institutt for datateknologi og informatikk (IDI) ved Norges teknisk-naturvitenskaplige universitet. Midlene skal øremerkes til studentaktiviteter. Generalforsamlingen kan ved 2/3 kvalifisert flertall overføre midler til andre organisasjoner som jobber for studenter.
 
 ==== 8.3 Onlines Fond
 
