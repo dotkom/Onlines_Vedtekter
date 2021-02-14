@@ -270,7 +270,8 @@ Medlemmer av linjeforeningen som ikke har mulighet til å møte i tide plikter �
 
 Generalforsamlingen kan vedta å gi medlemmer av linjeforeningen som kommer for sent, og ikke har informert om dette, stemmerett når vedkommende ankommer.
 
-5.6 Gjennomføring av valg
+### 5.6 Gjennomføring av valg
+
 Dersom det er mer enn en kandidat til et verv skal det avholdes hemmelig valg for vervet. Man kan stemme på “ingen” for å vise at man ikke ønsker noen av kandidatenene. Stemmetallet for personvalg der det skal fylles én stilling er 50% av avgitte stemmer, blanke stemmer teller ikke som avgitte stemmer.
 
 Dersom ingen av kandidatene oppnår stemmetallet fjernes den kandidaten med færrest stemmer og en ny valgrunde gjennomføres. Dersom ingen av kandidatene oppnår stemmetallet, og det er stemmelikhet på de kandidatene som har færrest stemmer, skal det gjennomføres en ny valgrunde, med samme kandidater.
