@@ -150,6 +150,10 @@ Komiteens hovedoppgave er å arrangere ekskursjon til Oslo for masterstudenter h
 
 Komiteens oppgave er å organisere idrettsgrupper og idrettsarrangementer for linjeforeningens medlemmer. Komiteens navn forkortes Online IL.
 
+==== 4.3.6 Applikasjonskomiteen
+
+Komiteens hovedoppgave er å utvikle og drifte egne it-systemer. Komiteens navnforkortes appkom.
+
 === 4.4 Andre grupper tilknyttet Online
 
 ==== 4.4.1 Redaksjonen
