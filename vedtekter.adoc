@@ -128,7 +128,7 @@ Komiteens hovedoppgave vil være å bistå med kunnskap, erfaring og assistanse 
 
 === 4.3 Nodekomiteer
 
-En nodekomité er underlagt en av komiteene beskrevet i §4.2, eller direkte underlagt Hovedstyret, og plikter å holde den ansvarlige kjernekomiteen, eller Hovedstyret, løpende oppdatert på sitt virke.
+En nodekomité er underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke.
 
 ==== 4.3.1 Jubileumskomiteen
 
