@@ -18,7 +18,11 @@ Det er noen prerequisites for å konvertere .adoc til en PDF:
 
 'ruby >=2.5'
 
-Gems kan lastes ned med:
+Det er noen gems i tillegg som kan lastes ned med:
 
 'gem install asciidoctor'
-'gem install asciidoctor-pdf '
+'gem install asciidoctor-pdf --pre'
+
+PDF kan så genereres ved å kjøre 'asciidoctor-pdf vedtekter.adoc'.
+
+Slå sammen "forside_semester_signert.pdf" med den genererte "vedtekter.pdf", så har man signerte vedtekter.
