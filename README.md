@@ -6,7 +6,7 @@ Ved oppdatering av vedtektene skal det opprettes en pull request for hver enkel 
 
 Paraferer godkjenner endringer etter generalforsamling. Dette gjennomføres ved å kommentere en godkjennelse på alle relevante innlemmingsforespørsler.
 
-Ved godkjenning skal det også opprettes en forside for opplasting, i tilfellet vedtektene skal lastes opp for offentlige etater eller liknende. Malen `forside_mal.pdf` signeres av paraferer og lastes opp på formatet `forside_semester_signert.pdf`, eksempelvis `forside_h2022_signert.pdf`.
+Etter godkjente endringer skal paraferene signere forsiden til vedtektene. Malen `forside_mal.pdf` signeres av paraferer og lastes opp på formatet `forside_semester_signert.pdf`, eksempelvis `forside_h2022_signert.pdf`. 
 
 Kun én signert forside skal ligge i repoet om gangen.
 
