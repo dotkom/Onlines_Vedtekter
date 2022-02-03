@@ -1,0 +1,351 @@
+= Linjeforeningsen Onlines vedtekter
+:toc:
+
+== §0 Definisjoner
+
+* Simpelt flertall: Det er flere stemmer for enn mot. Blanke stemmer teller ikke.
+* Kvalifisert 2/3 flertall: Mer enn 2/3 av de stemmeberettigede tilstede som avgir stemme stemmer for. Blanke stemmer teller ikke.
+* Kvalifisert 3/4 flertall: Mer enn 3/4 av de stemmeberettigede tilstede som avgir stemme stemmer for. Blanke stemmer teller ikke.
+* Akklamasjon: Et felles klapp fra forsamlingen som signaliserer bred enighet. Akklamasjon kan tas i bruk av ordstyrer dersom de anser at det er enighet i salen. Det skal gis rom for å uttrykke sin misnøye innen rimelig tid og enhver stemmeberettiget person tilstede kan kreve at det gjennomføres en fullstendig avstemning.
+* Stemmetall: Antallet stemmer som en person må oppnå for å bli valgt.
+
+== §1 Navn
+
+Organisasjonens navn er Online, linjeforeningen for informatikk, som forkortes Online eller Linjeforeningen Online.
+
+== §2 Formål
+
+Linjeforeningen Online er en partipolitisk og religiøst uavhengig, frivillig og ideell interesseorganisasjon for studenter som oppfyller §3. Online skal jobbe for å forbedre studiemiljøet ved å fremme sosialt samvær, faglig kompetanse, studentpolitiske interesser og bedriftskontakt. Online skal bidra til å øke den faglige kvaliteten i studiet.
+
+Online skal arbeide for å skape sterkere bånd mellom medlemmer på ulike årstrinn og være kontaktledd mellom medlemmene og eksterne aktører.
+
+== §3 Medlemskap
+
+=== 3.1 Medlemmer
+
+Studenter ved følgende studier ved NTNU har rett til å bli medlem av linjeforeningen:
+
+* Bachelor i informatikk (BIT)
+* Master i informatikk (MIT)
+* Master of Science in Informatics (MSIT)
+* PhD-kandidater ved Institutt for datateknologi og informatikk ved NTNU, som har tatt en bachelor eller master i informatikk
+
+=== 3.2 Medlemmers rettigheter
+
+Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, til generalforsamlingen. Alle medlemmer av linjeforeningen har rett til å søke Hovedstyret om å starte opp interessegrupper. Alle medlemmer har rett til å delta på de arrangementer som arrangeres for medlemmene, gitt at medlemmet er i arrangementets målgruppe. Medlemmer av linjeforeningen kan kreve innsyn i linjeforeningens regnskap og kan få innsyn i ikke-konfidensielle vedtak.
+
+==== 3.2.1 Livstidsmedlemmer
+
+Et medlem på livstid kan delta på sosiale arrangementer arrangert for alle medlemmer. I tillegg har medlemmer på livstid møte- og talerett på generalforsamlingen, men ikke stemmerett. Livstidsmedlemskapsrettigheter tiltrår ikke før etter man har avsluttet medlemskap jf. §3.1.
+
+Følgende er medlemmer av linjeforeningen på livstid:
+
+* Ridder av det Indre lager
+
+=== 3.3 Utmelding, opphør, ekskludering
+
+Alle medlemmer kan melde seg ut av linjeforeningen ved å melde fra skriftlig til Hovedstyret. Utmelding gjelder fra utmeldingsdato. Når en person ikke lenger oppfyller kravene for medlemskap i linjeforeningen vil medlemskapet opphøre.
+
+Hovedstyret kan, ved skjellig grunn, utestenge medlemmer fra linjeforeningen, midlertidig eller permanent, med 2/3 kvalifisert flertall.
+
+=== 3.4 Adgang for andre til å bli medlem
+
+På spesielt grunnlag kan Hovedstyret, ved 2/3 kvalifisert flertall, tillate andre å bli medlem. Dette gjelder primært studenter ved andre fakulteter og linjer som har informatikk som et av sine hovedstudier.
+
+== 4 Struktur, ledelse og organisasjon
+
+=== 4.1 Hovedstyret
+
+Hovedstyret er linjeforeningens øverste organ mellom generalforsamlingene. Hovedstyrets medlemmer velges på generalforsamlingen og skal drive linjeforeningen mellom generalforsamlingene. For at Hovedstyret skal være beslutningsdyktig må minst halvparten (1/2) av representantene være tilstede.
+
+Ingen kan inneha to verv i Hovedstyret. Leder har dobbeltstemme ved stemmelikhet. Hovedstyrets møter er lukket, men gjester kan inviteres dersom Hovedstyret ønsker dette. Hovedstyret skrives med stor ’H’ på samme måte som egennavn.
+
+Leder av linjeforeningen Online har HMS-ansvar i organisasjonen.
+
+==== 4.1.1 Hovedstyrets sammensetning
+
+Hovedstyret består av:
+
+* Leder
+* Nestleder
+* Økonomiansvarlig
+* Styremedlem fra Arrangementskomiteen
+* Styremedlem fra Bedriftskomiteen
+* Styremedlem fra Drifts- og utviklingskomiteen
+* Styremedlem fra Fag- og kurskomiteen
+* Styremedlem fra Profil- og aviskomiteen
+* Styremedlem fra Trivselskomiteen
+
+==== 4.1.2 Fravær av hovedstyremedlem
+
+Dersom en komité sitt styremedlem blir fraværende er det komitéleder som tar over styremedlemmets plikter, oppgaver og rettigheter. Dersom komitéleder ikke er tilgjengelig plikter Hovedstyret å fylle stillingen.
+
+Dersom leder, nestleder og/eller økonomiansvarlig av linjeforeningen blir fraværende i den grad at det går utover vervets arbeidsoppgaver skal det innkalles til ekstraordinær generalforsamling for å fylle vervet.
+
+==== 4.1.3 Krav til kandidater
+
+Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller nodekomiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en kjernekomité, må kandidaten foreslås av valgkomiteen.
+
+=== 4.2 Kjernekomiteer
+
+Alle kjernekomiteer består av minimum en leder, og en økonomiansvarlig. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
+
+Komiteens lederkandidat velges internt i komiteen før generalforsamlingen avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3.
+
+Kun medlemmer av linjeforeningen kan inneha verv i en kjernekomité. Dersom studenten ikke lengre kvalifiserer til medlemskap i linjeforeningen kan vervet fortsette etter avtale med Hovedstyret.
+
+==== 4.2.1 Arrangementskomiteen
+
+Komiteens hovedoppgave er å koordinere og gjennomføre sosiale arrangement. Komiteens navn forkortes arrkom.
+
+==== 4.2.2 Bank- og økonomikomiteen
+
+Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene, økonomiansvarlig i Online og leder av komiteen. Økonomiansvarlig i Online er komiteens styremedlem. Leder av Bank- og økonomikomiteen skal ikke være økonomiansvarlig for en annen komité. Komiteens navn forkortes bankom.
+
+==== 4.2.3 Bedriftskomiteen
+
+Komiteens hovedoppgave er å være et bindeledd mellom linjeforeningens medlemmer og næringslivet. Komiteens navn forkortes bedkom.
+
+==== 4.2.4 Drifts- og utviklingskomiteen
+
+Komiteens hovedoppgave er å utvikle og vedlikeholde linjeforeningens datasystemer. Komiteens navn forkortes dotkom.
+
+==== 4.2.5 Fag- og kurskomiteen
+
+Komiteens hovedoppgave er å koordinere og gjennomføre arrangement som tilbyr faglig innhold, primært for linjeforeningens egne medlemmer. Komiteens navn forkortes fagkom.
+
+==== 4.2.6 Profil- og aviskomiteen
+
+Komiteens hovedoppgave er å sikre kvalitet på profileringsmateriell, samt gi ut linjeforeningens tidsskrift. Komiteens navn forkortes prokom.
+
+==== 4.2.7 Trivselskomiteen
+
+Komiteens hovedoppgave er å sørge for økt trivsel blant informatikere i hverdagen og har hovedansvar for linjeforeningskontoret. Komiteens navn forkortes trikom.
+
+==== 4.2.8 Seniorkomiteen
+
+Komiteens hovedoppgave vil være å bistå med kunnskap, erfaring og assistanse i linjeforeningens daglige drift. Komiteens medlemmer skal primært bestå av medlemmer som har hatt et aktivt verv i linjeforeningen i fire (4) semester. Komiteens navn forkortes seniorkom.
+
+=== 4.3 Nodekomiteer
+
+En nodekomité er underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke.
+
+==== 4.3.1 Jubileumskomiteen
+
+Komiteens hovedoppgave er å organisere arrangement i forbindelse med linjeforeningens jubileer. Komiteens navn forkortes jubkom.
+
+==== 4.3.2 Velkomstkomiteen
+
+Komiteens hovedoppgave er å organisere fadderperiode for nye studenter. Komiteens navn forkortes velkom.
+
+==== 4.3.3 Ekskursjonskomiteen
+
+Komiteens hovedoppgave er å organisere hovedekskursjonen. Komiteens navn forkortes ekskom. Ekskursjonskomiteen opererer frittstående fra linjeforeningen, som en egen organisasjon.
+
+==== 4.3.4 Informatikernes IT-ekskursjon
+
+Komiteens hovedoppgave er å arrangere ekskursjon til Oslo for masterstudenter hver høst. Komiteens navn forkortes Itex.
+
+==== 4.3.5 Online idrettslag
+
+Komiteens oppgave er å organisere idrettsgrupper og idrettsarrangementer for linjeforeningens medlemmer. Komiteens navn forkortes Online IL.
+
+==== 4.3.6 Applikasjonskomiteen
+
+Komiteens hovedoppgave er å utvikle og drifte egne it-systemer. Komiteens navnforkortes appkom.
+
+=== 4.4 Andre grupper tilknyttet Online
+
+==== 4.4.1 Redaksjonen
+
+Gruppens hovedoppgave er å gi ut linjeforeningens avis. Redaktøren står fritt fra linjeforeningen, men er underlagt de retningslinjer og avtaler som finnes mellom redaksjonen og linjeforeningen. Redaktøren velger selv redaksjonsmedlemmer, også blant personer utenfor linjeforeningen. Redaksjonsmedlemmer som ikke innfrir krav til medlemskap i linjeforeningen, som definert under §3, er ikke medlemmer av linjeforeningen.
+
+==== 4.4.2 Casual gaming
+
+Gruppens hovedoppgave er å organisere LAN. Casual Gaming opererer frittstående fra linjeforeningen.
+
+==== 4.4.3 Realfagskjelleren
+
+Realfagskjellerens hovedoppgave er å opprettholde et sosialt lavterskeltilbud for studentene ved Volvox & Alkymisten, Delta, Spanskrøret og Online. Realfagskjelleren er frittstående fra linjeforeningen.
+
+==== 4.4.4 Output
+
+Output er linjeforeningens band, hvis formål er å bistå som underholdning på linjeforeningens arrangementer og andre arrangementer der det er aktuelt.
+
+=== 4.5 Interessegrupper
+
+Interessegrupper kan opprettes av Online-medlemmer som ønsker å dekke et behov som gagner informatikkstudenter. Disse grupperingene formulerer sine egne retningslinjer og godkjennes av seniorkomiteen.
+
+=== 4.6 Permisjon eller oppsigelse fra komité
+
+==== 4.6.1 Pause fra sitt engasjement
+
+Ved permisjon fra en komité er man fullstendig fritatt de pliktene komitévervet medførte.
+
+Et komitémedlem kan søke om permisjon fra et komitéverv i Online. Man må ha sittet i en komité i minst ett (1) semester for å kunne søke permisjon. Dersom permisjonen varer lengre enn to (2) semestere vil medlemmets verv opphøre.
+
+==== 4.6.2 Verv i Hovedstyret
+
+Dersom et komitémedlem blir valgt til et av følgende hovedstyreverv vil medlemmet automatisk få permisjon fra sin komité, og kan fritt returnere til denne ved endt engasjement i Hovedstyret:
+
+* Leder
+* Nestleder
+* Økonomiansvarlig
+
+==== 4.6.3 Advarsel og oppsigelse
+
+Leder av en komité har rett til å si opp et medlem av sin egen komité. Oppsigelse skal kun finne sted i tilfeller der det blir ansett som høyst nødvendig for å beskytte komiteens samhold, initiativ, integritet eller profesjonalitet. Leder av komiteen plikter å konsultere leder av linjeforeningen i forkant av en eventuell advarsel eller oppsigelse.
+
+=== 4.7 Mistillit
+
+Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen. Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken. Saken kan ikke behandles før minimum en -1- uke etter at Hovedstyret mottok mistillitsforslaget. Den anklagde har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyret mottar mistillitsforslaget. Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert inntil Hovedstyret har kommet med en avgjørelse. Mistillitsforslaget leses opp i Hovedstyret av Leder av Online, deretter skal den anklagede få en mulighet til å forsvare seg. Den anklagde har rett til å ha en tillitsvalgt tilstede under sitt forsvar. Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.
+
+=== 4.8 Æresmedlemmer
+
+Æresmedlemmer er personer som har bidratt i særskilt stor grad til å avansere linjeforeningen, informatikkfaget eller bidratt i stor grad til saker hvor linjeforeningen eller informatikk er påvirket. Æresmedlem er en tittel hovedsaklig for personer som ikke har vært medlem av linjeforeningen.
+Æresmedlemmer utnevnes av Hovedstyret.
+
+=== 4.9 Ridderne av det indre lager
+
+Linjeforeningen har en Ridderorden for medlemmer som gjennom sitt arbeid har utmerket seg. Denne ordenen er selvorganisert, og faller utenfor daglig drift av linjeforeningen.
+
+==== 4.9.1 Formål
+
+Ridderordenen skal være tilgjengelig som en kilde for kunnskap, historie og meninger. Et mål for Ridderordenen er å kunne bistå med tanker rundt organisasjonen, verdiene til linjeforeningen og langsiktige planer.
+Ridderordenens plikt er å etterstrebe en god tilstedeværelse under opptaket av nye medlemmer til linjeforeningen. Ansamlingen Riddere i denne anledningen betegnes som Eldsterådet.
+
+==== 4.9.2 Organisering
+
+Ridderordenen består av flere grader hvor høyere grader betegner større engasjement.
+
+==== 4.9.3 Medlemskap
+
+Ridderordenen bestyrer selv sitt eget opptak og vurdering av kandidater. Utnevnelser foregår i formelle anledninger der en betydelig del av linjeforeningens medlemmer er samlet. Før Ridderordenen kan utnevne kandidater skal sittende leder av Hovedstyret underrettes om hvilke kandidater det gjelder. For å vurderes til utnevnelse må en kandidat på et tidspunkt ha oppfylt kravene til medlemskap, jf. §3. Engasjement som vektlegges når Ridderordenen vurderer kandidater inkluderer verv i linjeforeningen og andre organisasjoner som er direkte knyttet til linjeforeningen.
+
+== §5 Generalforsamlingen
+
+Generalforsamlingen er linjeforeningens øverste organ. Generalforsamlingen avholdes årlig i løpet av vårsemesteret.
+
+Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, valg og regnskap for foregående år, valg av nytt hovedstyre og valg av tre medlemmer til en ny valgkomité.
+
+=== 5.1 Frister
+
+* Innkalling skal sendes ut til medlemmene senest _fire (4) uker_ før generalforsamlingen skal avholdes.
+* Saksforslag og forslag til vedtektsendringer sendes Hovedstyret senest _to (2) uker_ før generalforsamlingen skal avholdes.
+* Fullstendig saksliste med forslag til vedtektsendringer skal tilgjengeliggjøres senest _en (1) uke_ før møtedato. Denne skal også inneholde årsmelding, revidert regnskap, vedtatt budsjett for året og eventuelle andre relevante sakspapirer.
+* Referat fra generalforsamlingen skal underskrives av paraferer og sendes til medlemmene eller gjøres tilgjengelig for medlemmene senest _14 dager_ etter generalforsamlingen.
+
+=== 5.2 Ekstraordinær generalforsamling
+
+Det skal kalles inn til ekstraordinær generalforsamling dersom Hovedstyret eller det minste av 1/8 av medlemmene og ti (10) medlemmer ønsker det. Fristene for å kalle inn til ekstraordinær generalforsamling er halvert i forhold til fristene for ordinær generalforsamling, jf. §5.1
+
+Ekstraordinær generalforsamling skal kun behandle den (de) saken(e) som står på dagsorden for den ekstraordinære generalforsamlingen
+
+=== 5.3 Konstituering
+
+Ved konstituering av generalforsamlingen skal disse rollene fylles:
+
+* Ordstyrer
+* To referenter som skriver referat under generalforsamling og samarbeider om renskriving
+* Minst to til tellekorps som teller opp stemmer ved avstemming
+* To paraferer som godkjenner referat fra generalforsamling og de endrede vedtektene i etterkant av generalforsamlingen
+
+=== 5.4 Beslutningsdyktighet og avstemming
+
+For at en generalforsamling skal være beslutningsdyktig må det laveste mellom 15 medlemmer og 1/5 av medlemmene ha møtt opp.
+
+==== 5.4.1 Saker
+
+Alle saker på generalforsamlingen fattes med simpelt flertall.
+
+==== 5.4.2 Vedtekter
+
+Vedtektsendringer avgjøres med 2/3 kvalifisert flertall. Hovedstyret kan gjøre redaksjonelle endringer i vedtektene.
+
+=== 5.5 Stemmeberettigelse og talerett
+
+Ethvert medlem av linjeforeningen har talerett ved generalforsamlingen.
+Ethvert medlem av linjeforeningen som er tilstede når generalforsamlingen godkjenner stemmeberettigede har rett til å stemme.
+
+Medlemmer av linjeforeningen som ikke har mulighet til å møte i tide plikter å informere Hovedstyret og oppgi en tilstrekkelig grunn til forsinkelse. Generalforsamlingen kan vedta å gi disse personene stemmerett samtidig som stemmeberettigede godkjennes.
+
+Generalforsamlingen kan vedta å gi medlemmer av linjeforeningen som kommer for sent, og ikke har informert om dette, stemmerett når vedkommende ankommer.
+
+=== 5.6 Gjennomføring av valg
+
+Dersom det er mer enn en kandidat til et verv skal det avholdes hemmelig valg for vervet. Man kan stemme på “ingen” for å vise at man ikke ønsker noen av kandidatenene. Stemmetallet for personvalg der det skal fylles én stilling er 50% av avgitte stemmer, blanke stemmer teller ikke som avgitte stemmer.
+
+Dersom ingen av kandidatene oppnår stemmetallet fjernes den kandidaten med færrest stemmer og en ny valgrunde gjennomføres. Dersom ingen av kandidatene oppnår stemmetallet, og det er stemmelikhet på de kandidatene som har færrest stemmer, skal det gjennomføres en ny valgrunde, med samme kandidater.
+
+Innehavere av verv sitter inntil endt generalforsamling hvor det er gjennomført et godkjent valg for det respektive vervet. Dersom generalforsamlingen ikke klarer å gjennomføre et valg må det kalles inn til ekstraordinær forsamling innen tre dager etter endt ordinær generalforsamling.
+
+==== 5.6.1 Fraskrivelse av rett til å stille til valg
+
+Personer som innehar et av følgende verv under Generalforsamlingen, fraskriver seg retten til å stille til andre valg.
+
+* Ordstyrer
+* Tellekorps
+
+Med å stille til andre valg menes det at man ikke kan stille, eller bli nominert, til andre verv under Generalforsamlingen og valg til Hovedstyret
+
+Medlemmer som ble valgt til valgkomiteen ved forrige generalforsamling, kan ikke stille til verv i Hovedstyret.
+
+== 6 Andre Styringsdokumenter
+
+Alle styringsdokumenter i Online er underlagt vedtektene.
+
+=== 6.1 Foretningsorden
+
+Forretningsorden regulerer hvordan generalforsamlingen gjennomføres. Den godkjennes av generalforsamlingen og er i effekt frem til en ny forretningsorden er godkjent.
+
+=== 6.2 Retningslinjer for komiteene
+
+Hver kjernekomité og nodekomité har et sett med retningslinjer. Retningslinjene skal være tilgjengelig for alle medlemmer av Online. Komiteen skal utarbeide sine egne retningslinjer som skal legges frem for, og godkjennes av, Hovedstyret.
+
+=== 6.3 Budsjettreglement
+
+Makten til å godkjenne Onlines budsjett ligger hos Hovedstyret, men reguleres av budsjettreglementet. Budsjettreglementet kan endres av generalforsamlingen ved simpelt flertall.
+
+== §7 Økonomi
+
+=== 7.1 Budsjetterte midler
+
+Hovedstyret skal forvalte foreningens økonomi etter de vedtak som er fattet av generalforsamlingen og Hovedstyret under fastsettelse av budsjettet. Økonomiansvarlige sammen med sin komité har ansvaret for bruk av midler i henhold til sitt budsjett.
+
+Ikke-budsjetterte utgifter må godkjennes av Hovedstyret. Refundering av disse utgiftene vil kun forekomme dersom utgiften er godkjent.
+
+==== 7.1.2 Fastsettelse av budsjett
+
+Linjeforeningens budsjett for neste år settes av Bank- og økonomikomiteen på et årlig budsjettmøte i løpet av høstsemesteret. Dette skal deretter godkjennes av Hovedstyret. Budsjettet må være godkjent innen 1. desember for året som følger.
+
+Budsjettet skal være forsvarlig og det skal ikke, med mindre sterke grunner taler for det, budsjetteres med tap eller uten en ansvarlig sikkerhetsmargin.
+
+==== 7.1.3 Revidering av budsjett
+
+Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomikomiteen i løpet av våren. Revidert budsjett skal godkjennes av Hovedstyret innen 1. mai.
+
+==== 7.1.4 Offentliggjøring av budsjett
+
+Onlines budsjett skal være tilgjengelig for alle linjeforeningens medlemmer.
+
+=== 7.2 Fond
+
+Onlines Fond er definert ved Onlines Fonds vedtekter som eksisterer som vedlegg til Onlines vedtekter.
+
+=== 7.3 Overføring av midler
+
+Hovedstyret skal under Onlines generalforsamling legge frem forslag til et beløp som skal overføres til fondet.
+
+=== 8 Oppløsning av linjeforeningen
+
+==== 8.1 Vedtak
+
+Vedtak om linjeforeningens oppløsning treffes av ordinær generalforsamling med kvalifisert 3/4 flertall, og deretter kvalifisert 3/4 flertall ved ekstraordinær generalforsamling tre til seks måneder etter ordinær generalforsamling.
+
+==== 8.2 Midler
+
+Ved oppløsning skal midler som linjeforeningen disponerer overføres som gave til Institutt for datateknologi og informatikk (IDI) ved Norges teknisk-naturvitenskaplige universitet. Midlene skal øremerkes til studentaktiviteter. Generalforsamlingen kan ved 2/3 kvalifisert flertall overføre midler til andre organisasjoner som jobber for studenter.
+
+==== 8.3 Onlines Fond
+
+Ved oppløsning av Online, oppløses også Onlines Fond. Onlines Fonds midler fordeles da etter Onlines Fonds vedtekter, ved §8.2
