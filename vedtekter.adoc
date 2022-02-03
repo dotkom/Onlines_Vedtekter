@@ -86,6 +86,18 @@ Dersom leder, nestleder og/eller økonomiansvarlig av linjeforeningen blir frav�
 
 Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller nodekomiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en kjernekomité, må kandidaten foreslås av valgkomiteen.
 
+==== 4.1.4 Valg av Hovedstyre
+
+Verv i Hovedstyret varer normalt i to semestere og utlyses ved generalforsamlinger.
+
+Ved vår-generalforsamlingen utlyses:
+* Leder
+* Nestleder
+* Økonomiansvarlig
+
+Ved høst-generalforsamlingen utlyses:
+* Øvrige styrerepresentanter
+
 === 4.2 Kjernekomiteer
 
 Alle kjernekomiteer består av minimum en leder, og en økonomiansvarlig. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
@@ -226,7 +238,7 @@ Ridderordenen bestyrer selv sitt eget opptak og vurdering av kandidater. Utnevne
 
 Generalforsamlingen er linjeforeningens øverste organ. Det avholdes to generalforsamlinger årlig, én i løpet av vårsemesteret, og én i løpet av høstsemesteret.
 
-Begge forsamlingene skal behandle årsmelding, innsendte saker og vedtektsendringer. Vårforsamlingen skal i tillegg behandle valg av nytt fondsstyre, regnskap for foregående år, valg av tre medlemmer til en ny valgkomité og valg av hovedstyret.
+Begge forsamlingene skal behandle årsmelding, innsendte saker, vedtektsendringer og valg av hovedstyret. Vårforsamlingen skal i tillegg behandle valg av nytt fondsstyre, regnskap for foregående år, og valg av tre medlemmer til en ny valgkomité.
 
 === 5.1 Frister
 
