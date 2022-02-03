@@ -1,6 +1,8 @@
 ## Oppdatering av vedtekter
 
-Ved oppdatering av vedtektene skal det opprettes en innlemmingsforespørsel for hver enkel vedtektsendring. Dette er til for å kunne diskutere sakene utenfor diskusjonskvelder, og for god sporing av endringer gjennom tidene. Innlemmingsforespørselen skal bruke `Vedtektsendring` templaten som ligger i repoet. Innlemmingsforespørsler skal kun godkjennes etter de er fremmet på generalforsamling, godkjent av forsamlingen, og så godkjent av paraferer.
+Ved oppdatering av vedtektene skal det opprettes en innlemmingsforespørsel for hver enkel vedtektsendring. Dette er til for å kunne diskutere sakene utenfor diskusjonskvelder, og for god sporing av endringer gjennom tidene. Innlemmingsforespørselen skal bruke templaten som ligger i repoet. Innlemmingsforespørsler skal kun godkjennes etter de er fremmet på generalforsamling, godkjent av forsamlingen, og så godkjent av paraferer.
+
+**OBS: Pass på å lage en innlemmingsforespørsel mot `dotkom/Onlines_Vedtekter`, ikke originalrepoet.**
 
 ## Signering av vedtekter
 
