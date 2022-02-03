@@ -172,6 +172,10 @@ Realfagskjellerens hovedoppgave er å opprettholde et sosialt lavterskeltilbud f
 
 Output er linjeforeningens band, hvis formål er å bistå som underholdning på linjeforeningens arrangementer og andre arrangementer der det er aktuelt.
 
+==== 4.4.5 Debug
+
+Gruppens hovedoppgave er å fungere som linjeforeningens uavhengige varslingsorgan. Gruppen står fritt fra linjeforeningen, men er underlagt de retningslinjene og avtaler som er inngått med linjeforeningen. Leder velges jamfør ledervalg i 4.2, og er linjeforeningens hovedtillitsvalgt.
+
 === 4.5 Interessegrupper
 
 Interessegrupper kan opprettes av Online-medlemmer som ønsker å dekke et behov som gagner informatikkstudenter. Disse grupperingene formulerer sine egne retningslinjer og godkjennes av seniorkomiteen.
