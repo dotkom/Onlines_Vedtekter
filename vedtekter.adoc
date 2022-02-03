@@ -122,9 +122,9 @@ Komiteens hovedoppgave er å sikre kvalitet på profileringsmateriell, samt gi u
 
 Komiteens hovedoppgave er å sørge for økt trivsel blant informatikere i hverdagen og har hovedansvar for linjeforeningskontoret. Komiteens navn forkortes trikom.
 
-==== 4.2.8 Seniorkomiteen
+==== 4.2.8 Backlog
 
-Komiteens hovedoppgave vil være å bistå med kunnskap, erfaring og assistanse i linjeforeningens daglige drift. Komiteens medlemmer skal primært bestå av medlemmer som har hatt et aktivt verv i linjeforeningen i fire (4) semester. Komiteens navn forkortes seniorkom.
+Komiteens hovedoppgave vil være å bistå med kunnskap, erfaring og assistanse i linjeforeningens daglige drift. Komiteens medlemmer skal primært bestå av medlemmer som har hatt et aktivt verv i linjeforeningen i fire (4) semester. Leder av backlog godkjennes av Hovedstyret.
 
 === 4.3 Nodekomiteer
 
@@ -174,7 +174,7 @@ Output er linjeforeningens band, hvis formål er å bistå som underholdning på
 
 === 4.5 Interessegrupper
 
-Interessegrupper kan opprettes av Online-medlemmer som ønsker å dekke et behov som gagner informatikkstudenter. Disse grupperingene formulerer sine egne retningslinjer og godkjennes av seniorkomiteen.
+Interessegrupper kan opprettes av Online-medlemmer som ønsker å dekke et behov som gagner informatikkstudenter. Disse grupperingene formulerer sine egne retningslinjer og godkjennes av backlog.
 
 === 4.6 Permisjon eller oppsigelse fra komité
 
