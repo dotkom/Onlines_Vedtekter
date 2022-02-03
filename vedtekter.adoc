@@ -172,6 +172,9 @@ Realfagskjellerens hovedoppgave er å opprettholde et sosialt lavterskeltilbud f
 
 Output er linjeforeningens band, hvis formål er å bistå som underholdning på linjeforeningens arrangementer og andre arrangementer der det er aktuelt.
 
+==== 4.4.5 Datakameratene FK Gløshaugen
+Datakameratene FK Gløshaugens hovedoppgave er å gi et lavterskel fotballtilbud for studenter ved linjene datateknikk, kommunikasjonsteknologi og informatikk ved NTNU. Datakameratene FK er frittstående fra linjeforeningen.
+
 === 4.5 Interessegrupper
 
 Interessegrupper kan opprettes av Online-medlemmer som ønsker å dekke et behov som gagner informatikkstudenter. Disse grupperingene formulerer sine egne retningslinjer og godkjennes av seniorkomiteen.
