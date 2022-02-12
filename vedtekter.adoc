@@ -233,7 +233,7 @@ Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, ve
 * Innkalling skal sendes ut til medlemmene senest _fire (4) uker_ før generalforsamlingen skal avholdes.
 * Saksforslag og forslag til vedtektsendringer sendes Hovedstyret senest _to (2) uker_ før generalforsamlingen skal avholdes.
 * Fullstendig saksliste med forslag til vedtektsendringer skal tilgjengeliggjøres senest _en (1) uke_ før møtedato. Denne skal også inneholde årsmelding, revidert regnskap, vedtatt budsjett for året og eventuelle andre relevante sakspapirer.
-* Referat fra generalforsamlingen skal underskrives av paraferer og sendes til medlemmene eller gjøres tilgjengelig for medlemmene senest _14 dager_ etter generalforsamlingen.
+* Referat fra generalforsamlingen skal korrekturleses og godkjennes av Hovedstyret, og sendes til medlemmene eller gjøres tilgjengelig for medlemmene senest _14 dager_ etter generalforsamlingen.
 
 === 5.2 Ekstraordinær generalforsamling
 
@@ -248,7 +248,6 @@ Ved konstituering av generalforsamlingen skal disse rollene fylles:
 * Ordstyrer
 * To referenter som skriver referat under generalforsamling og samarbeider om renskriving
 * Minst to til tellekorps som teller opp stemmer ved avstemming
-* To paraferer som godkjenner referat fra generalforsamling og de endrede vedtektene i etterkant av generalforsamlingen
 
 === 5.4 Beslutningsdyktighet og avstemming
 
