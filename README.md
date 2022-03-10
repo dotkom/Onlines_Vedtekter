@@ -4,14 +4,6 @@ Ved oppdatering av vedtektene skal det opprettes en innlemmingsforespørsel for 
 
 **OBS: Pass på å lage en innlemmingsforespørsel mot `dotkom/Onlines_Vedtekter`, ikke originalrepoet.**
 
-## Signering av vedtekter
-
-Paraferer godkjenner endringer etter generalforsamling. Dette gjennomføres ved å kommentere en godkjennelse på alle relevante innlemmingsforespørsler.
-
-Etter godkjente endringer skal paraferene signere forsiden til vedtektene. Malen `forside_mal.pdf` signeres av paraferer og lastes opp på formatet `forside_semester_signert.pdf`, eksempelvis `forside_h2022_signert.pdf`. 
-
-Kun én signert forside skal ligge i repoet om gangen.
-
 ## Opplasting av vedtekter
 
 **Dette er for eksempel relevant for å sende oppdaterte vedtekter til Brønnøysundsregisteret**
@@ -26,5 +18,3 @@ Med `ruby >=2.5` må man laste ned noen gems i tillegg. Dersom ruby er lagt til 
 `gem install asciidoctor-pdf --pre`
 
 PDF kan så genereres ved å kjøre `asciidoctor-pdf vedtekter.adoc`.
-
-Slå sammen `forside_semester_signert.pdf` med den genererte `vedtekter.pdf`, så har man signerte vedtekter for avsending.
