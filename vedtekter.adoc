@@ -86,6 +86,20 @@ Dersom leder, nestleder og/eller økonomiansvarlig av linjeforeningen blir frav�
 
 Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller nodekomiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en kjernekomité, må kandidaten foreslås av valgkomiteen.
 
+==== 4.1.4 Valg av Hovedstyre
+
+Verv i Hovedstyret varer normalt i to semestere og utlyses ved generalforsamlinger.
+
+Ved vår-generalforsamlingen utlyses:
+* Leder
+* Nestleder
+* Økonomiansvarlig
+
+Ved høst-generalforsamlingen utlyses:
+* Øvrige styrerepresentanter
+
+Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet sitt samme generalforsamling de stiller. Dersom kandidaten vinner skal det avholdes ekstraordinært valg for den avtroppende styreposisjonen.
+
 === 4.2 Kjernekomiteer
 
 Alle kjernekomiteer består av minimum en leder, og en økonomiansvarlig. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
@@ -93,6 +107,8 @@ Alle kjernekomiteer består av minimum en leder, og en økonomiansvarlig. Kjerne
 Komiteens lederkandidat velges internt i komiteen før generalforsamlingen avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3.
 
 Kun medlemmer av linjeforeningen kan inneha verv i en kjernekomité. Dersom studenten ikke lengre kvalifiserer til medlemskap i linjeforeningen kan vervet fortsette etter avtale med Hovedstyret.
+
+En person kan ikke inneha verv i flere av Onlines kjernekomiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom og Backlog kan kombineres med en annen kjernekomite.
 
 ==== 4.2.1 Arrangementskomiteen
 
@@ -122,9 +138,9 @@ Komiteens hovedoppgave er å sikre kvalitet på profileringsmateriell, samt gi u
 
 Komiteens hovedoppgave er å sørge for økt trivsel blant informatikere i hverdagen og har hovedansvar for linjeforeningskontoret. Komiteens navn forkortes trikom.
 
-==== 4.2.8 Seniorkomiteen
+==== 4.2.8 Backlog
 
-Komiteens hovedoppgave vil være å bistå med kunnskap, erfaring og assistanse i linjeforeningens daglige drift. Komiteens medlemmer skal primært bestå av medlemmer som har hatt et aktivt verv i linjeforeningen i fire (4) semester. Komiteens navn forkortes seniorkom.
+Komiteens hovedoppgave vil være å bistå med kunnskap, erfaring og assistanse i linjeforeningens daglige drift. Komiteens medlemmer skal primært bestå av medlemmer som har hatt et aktivt verv i linjeforeningen i fire (4) semester. Leder av backlog godkjennes av Hovedstyret.
 
 === 4.3 Nodekomiteer
 
@@ -172,12 +188,17 @@ Realfagskjellerens hovedoppgave er å opprettholde et sosialt lavterskeltilbud f
 
 Output er linjeforeningens band, hvis formål er å bistå som underholdning på linjeforeningens arrangementer og andre arrangementer der det er aktuelt.
 
-==== 4.4.5 Datakameratene FK Gløshaugen
+==== 4.4.5 Debug
+
+Gruppens hovedoppgave er å fungere som linjeforeningens uavhengige varslingsorgan. Gruppen står fritt fra linjeforeningen, men er underlagt de retningslinjene og avtaler som er inngått med linjeforeningen. Leder velges jamfør ledervalg i 4.2, og er linjeforeningens hovedtillitsvalgt.
+
+==== 4.4.6 Datakameratene FK Gløshaugen
+
 Datakameratene FK Gløshaugens hovedoppgave er å gi et lavterskel fotballtilbud for studenter ved linjene datateknikk, kommunikasjonsteknologi og informatikk ved NTNU. Datakameratene FK er frittstående fra linjeforeningen.
 
 === 4.5 Interessegrupper
 
-Interessegrupper kan opprettes av Online-medlemmer som ønsker å dekke et behov som gagner informatikkstudenter. Disse grupperingene formulerer sine egne retningslinjer og godkjennes av seniorkomiteen.
+Interessegrupper kan opprettes av Online-medlemmer som ønsker å dekke et behov som gagner informatikkstudenter. Disse grupperingene formulerer sine egne retningslinjer og godkjennes av backlog.
 
 === 4.6 Permisjon eller oppsigelse fra komité
 
@@ -227,16 +248,16 @@ Ridderordenen bestyrer selv sitt eget opptak og vurdering av kandidater. Utnevne
 
 == §5 Generalforsamlingen
 
-Generalforsamlingen er linjeforeningens øverste organ. Generalforsamlingen avholdes årlig i løpet av vårsemesteret.
+Generalforsamlingen er linjeforeningens øverste organ. Det avholdes to generalforsamlinger årlig, én i løpet av vårsemesteret, og én i løpet av høstsemesteret.
 
-Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, valg og regnskap for foregående år, valg av nytt hovedstyre og valg av tre medlemmer til en ny valgkomité.
+Begge forsamlingene skal behandle årsmelding, innsendte saker og vedtektsendringer. Vårforsamlingen skal i tillegg behandle valg av nytt fondsstyre, regnskap for foregående år, valg av tre medlemmer til en ny valgkomité og valg av hovedstyret.
 
 === 5.1 Frister
 
 * Innkalling skal sendes ut til medlemmene senest _fire (4) uker_ før generalforsamlingen skal avholdes.
 * Saksforslag og forslag til vedtektsendringer sendes Hovedstyret senest _to (2) uker_ før generalforsamlingen skal avholdes.
 * Fullstendig saksliste med forslag til vedtektsendringer skal tilgjengeliggjøres senest _en (1) uke_ før møtedato. Denne skal også inneholde årsmelding, revidert regnskap, vedtatt budsjett for året og eventuelle andre relevante sakspapirer.
-* Referat fra generalforsamlingen skal underskrives av paraferer og sendes til medlemmene eller gjøres tilgjengelig for medlemmene senest _14 dager_ etter generalforsamlingen.
+* Referat fra generalforsamlingen skal korrekturleses og godkjennes av Hovedstyret, og sendes til medlemmene eller gjøres tilgjengelig for medlemmene senest _14 dager_ etter generalforsamlingen.
 
 === 5.2 Ekstraordinær generalforsamling
 
@@ -251,7 +272,6 @@ Ved konstituering av generalforsamlingen skal disse rollene fylles:
 * Ordstyrer
 * To referenter som skriver referat under generalforsamling og samarbeider om renskriving
 * Minst to til tellekorps som teller opp stemmer ved avstemming
-* To paraferer som godkjenner referat fra generalforsamling og de endrede vedtektene i etterkant av generalforsamlingen
 
 === 5.4 Beslutningsdyktighet og avstemming
 
@@ -315,7 +335,7 @@ Makten til å godkjenne Onlines budsjett ligger hos Hovedstyret, men reguleres a
 
 Hovedstyret skal forvalte foreningens økonomi etter de vedtak som er fattet av generalforsamlingen og Hovedstyret under fastsettelse av budsjettet. Økonomiansvarlige sammen med sin komité har ansvaret for bruk av midler i henhold til sitt budsjett.
 
-Ikke-budsjetterte utgifter må godkjennes av Hovedstyret. Refundering av disse utgiftene vil kun forekomme dersom utgiften er godkjent.
+Ikke-budsjetterte utgifter må godkjennes av Økonomiansvarlig. Alle godkjente saker må presenteres for Hovedstyret. Refundering av disse utgiftene vil kun forekomme dersom utgiften er godkjent.
 
 ==== 7.1.2 Fastsettelse av budsjett
 
@@ -325,7 +345,7 @@ Budsjettet skal være forsvarlig og det skal ikke, med mindre sterke grunner tal
 
 ==== 7.1.3 Revidering av budsjett
 
-Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomikomiteen i løpet av våren. Revidert budsjett skal godkjennes av Hovedstyret innen 1. mai.
+Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomikomiteen i løpet av våren og sommeren. Revidert budsjett skal godkjennes av Hovedstyret innen 1. september.
 
 ==== 7.1.4 Offentliggjøring av budsjett
 
