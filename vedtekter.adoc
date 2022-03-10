@@ -86,6 +86,20 @@ Dersom leder, nestleder og/eller økonomiansvarlig av linjeforeningen blir frav�
 
 Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller nodekomiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en kjernekomité, må kandidaten foreslås av valgkomiteen.
 
+==== 4.1.4 Valg av Hovedstyre
+
+Verv i Hovedstyret varer normalt i to semestere og utlyses ved generalforsamlinger.
+
+Ved vår-generalforsamlingen utlyses:
+* Leder
+* Nestleder
+* Økonomiansvarlig
+
+Ved høst-generalforsamlingen utlyses:
+* Øvrige styrerepresentanter
+
+Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet sitt samme generalforsamling de stiller. Dersom kandidaten vinner skal det avholdes ekstraordinært valg for den avtroppende styreposisjonen.
+
 === 4.2 Kjernekomiteer
 
 Alle kjernekomiteer består av minimum en leder, og en økonomiansvarlig. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
