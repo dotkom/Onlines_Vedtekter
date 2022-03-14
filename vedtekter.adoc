@@ -69,16 +69,16 @@ Hovedstyret består av:
 * Leder
 * Nestleder
 * Økonomiansvarlig
-* Styremedlem fra Arrangementskomiteen
-* Styremedlem fra Bedriftskomiteen
-* Styremedlem fra Drifts- og utviklingskomiteen
-* Styremedlem fra Fag- og kurskomiteen
-* Styremedlem fra Profil- og aviskomiteen
-* Styremedlem fra Trivselskomiteen
+* Styrerepresentant for Arrangementskomiteen
+* Styrerepresentant for Bedriftskomiteen
+* Styrerepresentant for Drifts- og utviklingskomiteen
+* Styrerepresentant for Fag- og kurskomiteen
+* Styrerepresentant for Profil- og aviskomiteen
+* Styrerepresentant for Trivselskomiteen
 
 ==== 4.1.2 Fravær av hovedstyremedlem
 
-Dersom en komité sitt styremedlem blir fraværende er det komitéleder som tar over styremedlemmets plikter, oppgaver og rettigheter. Dersom komitéleder ikke er tilgjengelig plikter Hovedstyret å fylle stillingen.
+Dersom en komité sin styrerepresentant blir fraværende er det komitéleder som tar over styrerepresentantens plikter, oppgaver og rettigheter. Dersom komitéleder ikke er tilgjengelig plikter Hovedstyret å fylle stillingen.
 
 Dersom leder, nestleder og/eller økonomiansvarlig av linjeforeningen blir fraværende i den grad at det går utover vervets arbeidsoppgaver skal det innkalles til ekstraordinær generalforsamling for å fylle vervet.
 
