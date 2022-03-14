@@ -91,11 +91,13 @@ Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller
 Verv i Hovedstyret varer normalt i to semestere og utlyses ved generalforsamlinger.
 
 Ved vår-generalforsamlingen utlyses:
+
 * Leder
 * Nestleder
 * Økonomiansvarlig
 
 Ved høst-generalforsamlingen utlyses:
+
 * Øvrige styrerepresentanter
 
 Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet sitt samme generalforsamling de stiller. Dersom kandidaten vinner skal det avholdes ekstraordinært valg for den avtroppende styreposisjonen.
@@ -144,7 +146,7 @@ Komiteens hovedoppgave vil være å bistå med kunnskap, erfaring og assistanse 
 
 === 4.3 Nodekomiteer
 
-En nodekomité er underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke.
+En nodekomite sitt virke er periodebasert. Nodekomiteer er underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke.
 
 ==== 4.3.1 Jubileumskomiteen
 
