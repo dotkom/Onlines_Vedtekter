@@ -142,9 +142,15 @@ Komiteens hovedoppgave er å sørge for økt trivsel blant informatikere i hverd
 
 Komiteens hovedoppgave vil være å bistå med kunnskap, erfaring og assistanse i linjeforeningens daglige drift. Komiteens medlemmer skal primært bestå av medlemmer som har hatt et aktivt verv i linjeforeningen i fire (4) semester. Leder av backlog godkjennes av Hovedstyret.
 
+4.2.9 Online idrettslag
+Komiteens oppgave er å organisere idrettsgrupper og idrettsarrangementer for linjeforeningens medlemmer. Komiteens navn forkortes Online IL.
+
+4.2.10 Applikasjonskomiteen 
+Komiteens hovedoppgave er å utvikle og drifte egne it-systemer. Komiteens navn forkortes appkom.
+
 === 4.3 Nodekomiteer
 
-En nodekomité er underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke.
+En nodekomite sitt virke er periodebasert. Nodekomiteer er underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke.
 
 ==== 4.3.1 Jubileumskomiteen
 
@@ -161,14 +167,6 @@ Komiteens hovedoppgave er å organisere hovedekskursjonen. Komiteens navn forkor
 ==== 4.3.4 Informatikernes IT-ekskursjon
 
 Komiteens hovedoppgave er å arrangere ekskursjon til Oslo for masterstudenter hver høst. Komiteens navn forkortes Itex.
-
-==== 4.3.5 Online idrettslag
-
-Komiteens oppgave er å organisere idrettsgrupper og idrettsarrangementer for linjeforeningens medlemmer. Komiteens navn forkortes Online IL.
-
-==== 4.3.6 Applikasjonskomiteen
-
-Komiteens hovedoppgave er å utvikle og drifte egne it-systemer. Komiteens navnforkortes appkom.
 
 === 4.4 Andre grupper tilknyttet Online
 
