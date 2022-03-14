@@ -143,9 +143,11 @@ Komiteens hovedoppgave er å sørge for økt trivsel blant informatikere i hverd
 Komiteens hovedoppgave vil være å bistå med kunnskap, erfaring og assistanse i linjeforeningens daglige drift. Komiteens medlemmer skal primært bestå av medlemmer som har hatt et aktivt verv i linjeforeningen i fire (4) semester. Leder av backlog godkjennes av Hovedstyret.
 
 4.2.9 Online idrettslag
+
 Komiteens oppgave er å organisere idrettsgrupper og idrettsarrangementer for linjeforeningens medlemmer. Komiteens navn forkortes Online IL.
 
 4.2.10 Applikasjonskomiteen 
+
 Komiteens hovedoppgave er å utvikle og drifte egne it-systemer. Komiteens navn forkortes appkom.
 
 === 4.3 Nodekomiteer
