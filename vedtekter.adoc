@@ -1,4 +1,4 @@
-= Linjeforeningsen Onlines vedtekter
+= Linjeforeningen Onlines vedtekter
 :toc:
 
 == §0 Definisjoner
@@ -91,11 +91,13 @@ Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller
 Verv i Hovedstyret varer normalt i to semestere og utlyses ved generalforsamlinger.
 
 Ved vår-generalforsamlingen utlyses:
+
 * Leder
 * Nestleder
 * Økonomiansvarlig
 
 Ved høst-generalforsamlingen utlyses:
+
 * Øvrige styrerepresentanter
 
 Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet sitt samme generalforsamling de stiller. Dersom kandidaten vinner skal det avholdes ekstraordinært valg for den avtroppende styreposisjonen.
