@@ -104,7 +104,7 @@ Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet s
 
 === 4.2 Kjernekomiteer
 
-Alle kjernekomiteer består av minimum en leder, og en økonomiansvarlig. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
+Alle kjernekomiteer består av minimum en leder, en økonomiansvarlig og en tillitsvalgt. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
 
 Komiteens lederkandidat velges internt i komiteen før generalforsamlingen avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3.
 
@@ -154,7 +154,7 @@ Komiteens hovedoppgave er å utvikle og drifte egne it-systemer. Komiteens navn 
 
 === 4.3 Nodekomiteer
 
-En nodekomite sitt virke er periodebasert. Nodekomiteer er underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke.
+En nodekomite sitt virke er periodebasert. Nodekomiteer er underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke. Alle nodekomiteer består av minimum en leder, en økonomiansvarlig og en tillitsvalgt.
 
 ==== 4.3.1 Jubileumskomiteen
 
