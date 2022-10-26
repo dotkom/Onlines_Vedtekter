@@ -114,7 +114,7 @@ Komiteens lederkandidat velges internt i komiteen før generalforsamlingen avhol
 
 Kun medlemmer av linjeforeningen kan inneha verv i en kjernekomité. Dersom studenten ikke lengre kvalifiserer til medlemskap i linjeforeningen kan vervet fortsette etter avtale med Hovedstyret.
 
-En person kan ikke inneha verv i flere av Onlines kjernekomiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom og Backlog kan kombineres med en annen kjernekomite.
+En person kan ikke inneha verv i flere av Onlines kjernekomiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom, Backlog og FeminIT kan kombineres med en annen kjernekomite.
 
 ==== 4.2.1 Arrangementskomiteen
 
@@ -155,6 +155,10 @@ Komiteens oppgave er å organisere idrettsgrupper og idrettsarrangementer for li
 ==== 4.2.10 Applikasjonskomiteen 
 
 Komiteens hovedoppgave er å utvikle og drifte egne it-systemer. Komiteens navn forkortes appkom.
+
+==== 4.2.11 Females in IT
+
+Komiteens hovedoppgave er å øke trivselen blant jenter på informatikk for å på sikt øke kvinneandelen. Komiteen legges ned etter at kvinneandelen av uteksaminerte studenter på informatikk har nådd 40% på bachelornivå og 30% på masternivå over tre år. Komiteens navn forkortes FeminIT.
 
 === 4.3 Nodekomiteer
 
