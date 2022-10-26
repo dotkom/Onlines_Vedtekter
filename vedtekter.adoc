@@ -48,9 +48,13 @@ Alle medlemmer kan melde seg ut av linjeforeningen ved å melde fra skriftlig ti
 
 Hovedstyret kan, ved skjellig grunn, utestenge medlemmer fra linjeforeningen, midlertidig eller permanent, med 2/3 kvalifisert flertall.
 
-=== 3.4 Adgang for andre til å bli medlem
+=== 3.4 Adgang for andre til å bli sosialt medlem
 
-På spesielt grunnlag kan Hovedstyret, ved 2/3 kvalifisert flertall, tillate andre å bli medlem. Dette gjelder primært studenter ved andre fakulteter og linjer som har informatikk som et av sine hovedstudier.
+Studenter ved andre fakulteter og linjer som har informatikk som et av sine hovedstudier kan søke om sosialt medlemskap. Søknaden sendes inn til Hovedstyret med dokumentasjon på at vedkommende tar alle obligatoriske emner ved informatikk. 
+
+=== 3.5 Adgang for andre til å bli fullverdig medlem
+
+På spesielt grunnlag kan Hovedstyret, ved 2/3 kvalifisert flertall, tillate andre studenter å bli fullverdig medlem.
 
 == 4 Struktur, ledelse og organisasjon
 
