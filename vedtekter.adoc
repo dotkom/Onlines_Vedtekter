@@ -236,10 +236,11 @@ Mistillitsforslag foreligger når et medlem i Online foreslår å vedta at noen 
 
 ==== 4.7.1 Fremme mistillit
 
-a. Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen.
+a. Ethvert medlem av linjeforeningen kan fremme mistillitsforslag mot enhver innehaver av et verv i linjeforeningen.
 
-    . Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert inntil Hovedstyret har kommet med en avgjørelse.
+    . Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert fra sin rolle i Hovedstyret inntil Hovedstyret har kommet med en avgjørelse.
     . Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.
+    . Avhengig av sakens grad, kan Hovedstyret velge å midlertidig suspendere en eller flere av de involverte fra sine verv.
 
 b. Ved et mistillitsforslag skal man henvende seg skriftlig til Debug.
 
