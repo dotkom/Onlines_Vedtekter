@@ -48,9 +48,13 @@ Alle medlemmer kan melde seg ut av linjeforeningen ved å melde fra skriftlig ti
 
 Hovedstyret kan, ved skjellig grunn, utestenge medlemmer fra linjeforeningen, midlertidig eller permanent, med 2/3 kvalifisert flertall.
 
-=== 3.4 Adgang for andre til å bli medlem
+=== 3.4 Adgang for andre til å bli sosialt medlem
 
-På spesielt grunnlag kan Hovedstyret, ved 2/3 kvalifisert flertall, tillate andre å bli medlem. Dette gjelder primært studenter ved andre fakulteter og linjer som har informatikk som et av sine hovedstudier.
+Studenter ved andre fakulteter og linjer som har informatikk som et av sine hovedstudier kan søke om sosialt medlemskap. Søknaden sendes inn til Hovedstyret med dokumentasjon på at vedkommende tar alle obligatoriske emner ved informatikk. 
+
+=== 3.5 Adgang for andre til å bli fullverdig medlem
+
+På spesielt grunnlag kan Hovedstyret, ved 2/3 kvalifisert flertall, tillate andre studenter å bli fullverdig medlem.
 
 == 4 Struktur, ledelse og organisasjon
 
@@ -84,7 +88,7 @@ Dersom leder, nestleder og/eller økonomiansvarlig av linjeforeningen blir frav�
 
 ==== 4.1.3 Krav til kandidater
 
-Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller nodekomiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en kjernekomité, må kandidaten foreslås av valgkomiteen.
+Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller nodekomiteene i linjeforeningen i minst ett (1) semester. Om en kandidat til styrerepresentant ikke har innehatt et verv i en kjernekomité, må kandidaten foreslås av valgkomiteen.
 
 ==== 4.1.4 Valg av Hovedstyre
 
@@ -100,17 +104,17 @@ Ved høst-generalforsamlingen utlyses:
 
 * Øvrige styrerepresentanter
 
-Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet sitt samme generalforsamling de stiller. Dersom kandidaten vinner skal det avholdes ekstraordinært valg for den avtroppende styreposisjonen.
+Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet sitt samme generalforsamling de stiller. Sittende styremedlemmer som ønsker å stille til valg i ny rolle må varsle om dette senest ved innkallingen til generalforsamlingen, som sendes ut fire (4) uker før generalforsamlingen. Dersom kandidaten vinner skal det avholdes ekstraordinært valg for den avtroppende styreposisjonen.
 
 === 4.2 Kjernekomiteer
 
-Alle kjernekomiteer består av minimum en leder, og en økonomiansvarlig. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
+Alle kjernekomiteer består av minimum en leder, en økonomiansvarlig og en tillitsvalgt. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
 
-Komiteens lederkandidat velges internt i komiteen før generalforsamlingen avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3.
+Komiteens lederkandidat velges internt i komiteen før vårens generalforsamling avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3.
 
 Kun medlemmer av linjeforeningen kan inneha verv i en kjernekomité. Dersom studenten ikke lengre kvalifiserer til medlemskap i linjeforeningen kan vervet fortsette etter avtale med Hovedstyret.
 
-En person kan ikke inneha verv i flere av Onlines kjernekomiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom og Backlog kan kombineres med en annen kjernekomite.
+En person kan ikke inneha verv i flere av Onlines kjernekomiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom, Backlog og FeminIT kan kombineres med en annen kjernekomite.
 
 ==== 4.2.1 Arrangementskomiteen
 
@@ -152,9 +156,13 @@ Komiteens oppgave er å organisere idrettsgrupper og idrettsarrangementer for li
 
 Komiteens hovedoppgave er å utvikle og drifte egne it-systemer. Komiteens navn forkortes appkom.
 
+==== 4.2.11 Females in IT
+
+Komiteens hovedoppgave er å øke trivselen blant jenter på informatikk for å på sikt øke kvinneandelen. Komiteen legges ned etter at kvinneandelen av uteksaminerte studenter på informatikk har nådd 40% på bachelornivå og 30% på masternivå over tre år. Komiteens navn forkortes FeminIT.
+
 === 4.3 Nodekomiteer
 
-En nodekomite sitt virke er periodebasert. Nodekomiteer er underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke.
+En nodekomite sitt virke er periodebasert. Nodekomiteer er underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke. Alle nodekomiteer består av minimum en leder, en økonomiansvarlig og en tillitsvalgt.
 
 ==== 4.3.1 Jubileumskomiteen
 
@@ -231,15 +239,16 @@ a. Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver
     . Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert inntil Hovedstyret har kommet med en avgjørelse.
     . Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.
 
-b. Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken.
+b. Ved et mistillitsforslag skal man henvende seg skriftlig til Debug.
 
 ==== § 4.7.2 Saksbehandling
 
-a. Mistillitsforslaget leses opp i Hovedstyret av Leder av Online, deretter skal den anklagede få en mulighet til å forsvare seg.
+a. Mistillitsforslaget presenteres for Hovedstyret av Debug.
 b. Saken kan ikke behandles før minimum en -1- uke etter at Hovedstyret mottok mistillitsforslaget.
-c. Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyret mottar mistillitsforslaget.
-d. Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar.
-e. Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede.
+c. Den anklagde skal få mulighet til å forsvare seg, dersom vedkommende ønsker det.
+d. Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyret mottar mistillitsforslaget.
+e. Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar.
+f. Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede.
 
 ==== § 4.7.3 Klage
 
@@ -368,7 +377,7 @@ Budsjettet skal være forsvarlig og det skal ikke, med mindre sterke grunner tal
 
 ==== 7.1.3 Revidering av budsjett
 
-Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomikomiteen i løpet av våren og sommeren. Revidert budsjett skal godkjennes av Hovedstyret innen 1. september.
+Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomikomiteen i løpet av våren og sommeren. Revidert budsjett skal godkjennes av Hovedstyret innen 15. september.
 
 ==== 7.1.4 Offentliggjøring av budsjett
 
