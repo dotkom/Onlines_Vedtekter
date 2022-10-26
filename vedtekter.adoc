@@ -231,15 +231,16 @@ a. Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver
     . Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert inntil Hovedstyret har kommet med en avgjørelse.
     . Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.
 
-b. Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken.
+b. Ved et mistillitsforslag skal man henvende seg skriftlig til Debug.
 
 ==== § 4.7.2 Saksbehandling
 
-a. Mistillitsforslaget leses opp i Hovedstyret av Leder av Online, deretter skal den anklagede få en mulighet til å forsvare seg.
+a. Mistillitsforslaget presenteres for Hovedstyret av Debug.
 b. Saken kan ikke behandles før minimum en -1- uke etter at Hovedstyret mottok mistillitsforslaget.
-c. Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyret mottar mistillitsforslaget.
-d. Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar.
-e. Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede.
+c. Den anklagde skal få mulighet til å forsvare seg, dersom vedkommende ønsker det.
+d. Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyret mottar mistillitsforslaget.
+e. Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar.
+f. Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede.
 
 
 === 4.8 Æresmedlemmer
