@@ -88,7 +88,7 @@ Dersom leder, nestleder og/eller økonomiansvarlig av linjeforeningen blir frav�
 
 ==== 4.1.3 Krav til kandidater
 
-Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller nodekomiteene i linjeforeningen i minst ett (1) semester. Om en kandidat til styrerepresentant ikke har innehatt et verv i en kjernekomité, må kandidaten foreslås av valgkomiteen.
+Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat til styrerepresentant ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen.
 
 ==== 4.1.4 Valg av Hovedstyre
 
@@ -106,15 +106,15 @@ Ved høst-generalforsamlingen utlyses:
 
 Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet sitt samme generalforsamling de stiller. Sittende styremedlemmer som ønsker å stille til valg i ny rolle må varsle om dette senest ved innkallingen til generalforsamlingen, som sendes ut fire (4) uker før generalforsamlingen. Dersom kandidaten vinner skal det avholdes ekstraordinært valg for den avtroppende styreposisjonen.
 
-=== 4.2 Kjernekomiteer
+=== 4.2 Komiteer
 
-Alle kjernekomiteer består av minimum en leder, en økonomiansvarlig og en tillitsvalgt. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
+Alle komiteer består av minimum en leder, en økonomiansvarlig og en tillitsvalgt. Komiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
 
-Komiteens lederkandidat velges internt i komiteen før vårens generalforsamling avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3.
+Komiteens lederkandidat, med unntak av nodekomiteer, velges internt i komiteen før vårens generalforsamlingen avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3.
 
-Kun medlemmer av linjeforeningen kan inneha verv i en kjernekomité. Dersom studenten ikke lengre kvalifiserer til medlemskap i linjeforeningen kan vervet fortsette etter avtale med Hovedstyret.
+Kun medlemmer av linjeforeningen kan inneha verv i en komité. Dersom studenten ikke lengre kvalifiserer til medlemskap i linjeforeningen kan vervet fortsette etter avtale med Hovedstyret.
 
-En person kan ikke inneha verv i flere av Onlines kjernekomiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom, Backlog og FeminIT kan kombineres med en annen kjernekomite.
+En person kan ikke inneha verv i flere av Onlines komiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom, Backlog, FeminIT og nodekomiteer kan kombineres med en annen komite.
 
 ==== 4.2.1 Arrangementskomiteen
 
@@ -358,7 +358,7 @@ Forretningsorden regulerer hvordan generalforsamlingen gjennomføres. Den godkje
 
 === 6.2 Retningslinjer for komiteene
 
-Hver kjernekomité og nodekomité har et sett med retningslinjer. Retningslinjene skal være tilgjengelig for alle medlemmer av Online. Komiteen skal utarbeide sine egne retningslinjer som skal legges frem for, og godkjennes av, Hovedstyret.
+Hver komité har et sett med retningslinjer. Retningslinjene skal være tilgjengelig for alle medlemmer av Online. Komiteen skal utarbeide sine egne retningslinjer som skal legges frem for, og godkjennes av, Hovedstyret.
 
 === 6.3 Budsjettreglement
 
