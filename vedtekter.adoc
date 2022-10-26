@@ -232,6 +232,8 @@ Leder av en komité har rett til å si opp et medlem av sin egen komité. Oppsig
 
 === 4.7 Mistillit
 
+Mistillitsforslag foreligger når et medlem i Online foreslår å vedta at noen som innehar verv, ikke lenger har linjeforeningens tillit og derfor skal fjernes fra vervet. Hovedstyret har til enhver tid i sin makt, å enstemmig fatte et vedtak om mistillit.
+
 ==== 4.7.1 Fremme mistillit
 
 a. Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen.
