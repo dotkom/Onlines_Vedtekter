@@ -88,7 +88,7 @@ Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller
 
 ==== 4.1.4 Valg av Hovedstyre
 
-Verv i Hovedstyret varer normalt i to semestere og utlyses ved generalforsamlinger.
+Verv i Hovedstyret varer normalt i to semestere og utlyses ved generalforsamlinger. Året etter et styremedlem har gått av, plikter vedkommende å behandle klager sendt inn i henhold til §4.7.3. Dersom vedkommende ikke lenger er student i Trondheim, frafaller denne plikten.
 
 Ved vår-generalforsamlingen utlyses:
 
@@ -241,6 +241,11 @@ c. Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyr
 d. Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar.
 e. Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede.
 
+==== § 4.7.3 Klage
+
+a. Den anklagede har rett til å klage på mistillitsvedtaket, ved å informere Debug.
+b. Klagefristen er én måned etter at vedtaket ble fattet.
+c. En klage vil bli håndtert av de som har innehatt rollene i Hovedstyret før de som har behandlet saken, dersom 7/9 medlemmer fortsatt studerer ved NTNU. Om dette ikke er tilfellet, er generalforsamlingen eneste klageinstans.
 
 === 4.8 Æresmedlemmer
 
