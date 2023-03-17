@@ -94,13 +94,13 @@ Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjefore
 
 Verv i Hovedstyret varer normalt i to semestere og utlyses ved generalforsamlinger. Året etter et styremedlem har gått av, plikter vedkommende å behandle klager sendt inn i henhold til §4.7.3. Dersom vedkommende ikke lenger er student i Trondheim, frafaller denne plikten.
 
-Ved vår-generalforsamlingen utlyses:
+Ved Ordinær generalforsamlingen utlyses:
 
 * Leder
 * Nestleder
 * Økonomiansvarlig
 
-Ved høst-generalforsamlingen utlyses:
+Ved Sekundær generalforsamlingen utlyses:
 
 * Øvrige styrerepresentanter
 
@@ -110,7 +110,7 @@ Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet s
 
 Alle komiteer består av minimum en leder, en økonomiansvarlig og en tillitsvalgt. Komiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
 
-Komiteens lederkandidat, med unntak av nodekomiteer, velges internt i komiteen før vårens generalforsamlingen avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3.
+Komiteens lederkandidat, med unntak av nodekomiteer, velges internt i komiteen før ordinær generalforsamling avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3.
 
 Kun medlemmer av linjeforeningen kan inneha verv i en komité. Dersom studenten ikke lengre kvalifiserer til medlemskap i linjeforeningen kan vervet fortsette etter avtale med Hovedstyret.
 
@@ -283,9 +283,9 @@ Ridderordenen bestyrer selv sitt eget opptak og vurdering av kandidater. Utnevne
 
 == §5 Generalforsamlingen
 
-Generalforsamlingen er linjeforeningens øverste organ. Det avholdes to generalforsamlinger årlig, én i løpet av vårsemesteret, og én i løpet av høstsemesteret.
+Generalforsamlingen er linjeforeningens øverste organ. Det skal avholdes ordinær generalforsamling på vårsemesteret, og sekundær generalforsamling på høsten.
 
-Begge forsamlingene skal behandle årsmelding, innsendte saker og vedtektsendringer. Vårforsamlingen skal i tillegg behandle valg av nytt fondsstyre, regnskap for foregående år, valg av tre medlemmer til en ny valgkomité og valg av hovedstyret.
+Begge forsamlingene skal behandle halvårsmelding, innsendte saker og vedtektsendringer. Ordinær generalforsamling skal i tillegg behandle valg av nytt fondsstyre, regnskap for foregående år, valg av tre medlemmer til en ny valgkomité og valg av hovedstyret.
 
 === 5.1 Frister
 
