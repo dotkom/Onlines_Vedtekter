@@ -288,7 +288,7 @@ Ekstraordinær generalforsamling skal kun behandle den (de) saken(e) som står p
 Ved konstituering av generalforsamlingen skal disse rollene fylles:
 
 * Ordstyrer
-* To referenter som skriver referat under generalforsamling og samarbeider om renskriving
+* Minst to referenter som skriver referat under generalforsamling og samarbeider om renskriving
 * Minst to til tellekorps som teller opp stemmer ved avstemming
 
 === 5.4 Beslutningsdyktighet og avstemming
