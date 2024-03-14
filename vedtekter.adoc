@@ -240,7 +240,7 @@ f. Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede til
 
 a. Den anklagede har rett til å klage på mistillitsvedtaket, ved å informere Debug.
 b. Klagefristen er én måned etter at vedtaket ble fattet.
-c. En klage vil bli håndtert av de som har innehatt rollene i Hovedstyret før de som har behandlet saken, dersom 7/9 medlemmer fortsatt studerer ved NTNU. Om dette ikke er tilfellet, er generalforsamlingen eneste klageinstans.
+c. En klage vil bli håndtert av de som har innehatt rollene i Hovedstyret før de som har behandlet saken, dersom 5/6 medlemmer fortsatt studerer ved NTNU. Om dette ikke er tilfellet, er generalforsamlingen eneste klageinstans.
 
 === 4.8 Æresmedlemmer
 
