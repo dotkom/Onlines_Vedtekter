@@ -62,7 +62,7 @@ På spesielt grunnlag kan Hovedstyret, ved 2/3 kvalifisert flertall, tillate and
 
 Hovedstyret er linjeforeningens øverste organ mellom generalforsamlingene. Hovedstyrets medlemmer velges på generalforsamlingen og skal drive linjeforeningen mellom generalforsamlingene. For at Hovedstyret skal være beslutningsdyktig må minst halvparten (1/2) av styremedlemmene være tilstede.
 
-Ingen kan inneha to verv i Hovedstyret. Leder har dobbeltstemme ved stemmelikhet. Hovedstyrets møter er lukket, men gjester kan inviteres dersom Hovedstyret ønsker dette. Ved saker som angår en eller flere komiteer har kommunikasjonsansvarlig(e) fra komiteen(e) rett til å enten møte selv, eller sende noen andre fra komiteen sin.
+Ingen kan inneha to verv i Hovedstyret. Leder har dobbeltstemme ved stemmelikhet. Hovedstyrets møter er lukket, men gjester kan inviteres dersom Hovedstyret ønsker dette. Ved saker som angår en eller flere komiteer har ledere(e) fra komiteen(e) rett til å enten møte selv, eller sende noen andre fra komiteen sin.
 
 Leder av linjeforeningen Online har HMS-ansvar i organisasjonen.
 
@@ -90,7 +90,7 @@ Ved Ordinær generalforsamlingen utlyses:
 * Øvrige styremedlemmer
 
 === 4.2 Komiteer
-Alle komiteer består av minimum en leder, en økonomiansvarlig, en tillitsvalgt og en kommunikasjonsansvarlig. Rollen som kommunikasjonsansvarlig kan kombineres med hvilken som helst annen rolle i komiteen.
+Alle komiteer består av minimum en leder, en økonomiansvarlig og en tillitsvalgt.
 
 Komiteens lederkandidat, med unntak av nodekomiteer, velges internt i komiteen før ordinær generalforsamling avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3.
 
