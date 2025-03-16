@@ -158,27 +158,23 @@ Komiteens hovedoppgave er å organisere hovedekskursjonen. Komiteens navn forkor
 
 === 4.4 Andre grupper tilknyttet Online
 
-==== 4.4.1 Redaksjonen
-
-Gruppens hovedoppgave er å gi ut linjeforeningens avis. Redaktøren står fritt fra linjeforeningen, men er underlagt de retningslinjer og avtaler som finnes mellom redaksjonen og linjeforeningen. Redaktøren velger selv redaksjonsmedlemmer, også blant personer utenfor linjeforeningen. Redaksjonsmedlemmer som ikke innfrir krav til medlemskap i linjeforeningen, som definert under §3, er ikke medlemmer av linjeforeningen.
-
-==== 4.4.2 Casual gaming
+==== 4.4.1 Casual gaming
 
 Gruppens hovedoppgave er å organisere LAN. Casual Gaming opererer frittstående fra linjeforeningen.
 
-==== 4.4.3 Realfagskjelleren
+==== 4.4.2 Realfagskjelleren
 
 Realfagskjellerens hovedoppgave er å opprettholde et sosialt lavterskeltilbud for studentene ved Volvox & Alkymisten, Delta, Spanskrøret og Online. Realfagskjelleren er frittstående fra linjeforeningen.
 
-==== 4.4.4 Output
+==== 4.4.3 Output
 
 Output er linjeforeningens band, hvis formål er å bistå som underholdning på linjeforeningens arrangementer og andre arrangementer der det er aktuelt.
 
-==== 4.4.5 Debug
+==== 4.4.4 Debug
 
 Gruppens hovedoppgave er å fungere som linjeforeningens uavhengige varslingsorgan. Gruppen står fritt fra linjeforeningen, men er underlagt de retningslinjene og avtaler som er inngått med linjeforeningen. Leder velges jamfør ledervalg i 4.2, og er linjeforeningens hovedtillitsvalgt.
 
-==== 4.4.6 Datakameratene FK Gløshaugen
+==== 4.4.5 Datakameratene FK Gløshaugen
 
 Datakameratene FK Gløshaugens hovedoppgave er å gi et lavterskel fotballtilbud for studenter ved linjene datateknologi, cybersikkerhet og datakommunikasjon og informatikk ved NTNU. Datakameratene FK er frittstående fra linjeforeningen.
 
