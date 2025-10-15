@@ -136,9 +136,9 @@ Komiteens oppgave er å organisere idrettsgrupper og idrettsarrangementer for li
 
 Komiteens hovedoppgave er å utvikle og drifte egne it-systemer. Komiteens navn forkortes appkom.
 
-==== 4.2.11 Females in IT
+==== 4.2.11 FeminIT
 
-Komiteens hovedoppgave er å øke trivselen blant jenter på informatikk for å på sikt øke kvinneandelen. Komiteen legges ned etter at kvinneandelen av uteksaminerte studenter på informatikk har nådd 40% på bachelornivå og 30% på masternivå over tre år. Komiteens navn forkortes FeminIT.
+Komiteens hovedoppgave er å øke trivselen blant jenter og ikke-binære på informatikk for å på sikt øke andelen kvinner og ikke-binære. Komiteen legges ned etter at nevnt gruppe av uteksaminerte studenter på informatikk har nådd 40% på bachelornivå og 30% på masternivå over tre år.
 
 === 4.3 Nodekomiteer
 
