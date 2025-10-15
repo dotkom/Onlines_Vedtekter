@@ -92,6 +92,8 @@ Alle komiteer består av minimum en leder, en økonomiansvarlig og en tillitsval
 
 Komiteens lederkandidat, med unntak av nodekomiteer, velges internt i komiteen før ordinær generalforsamling avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3.
 
+Tillitsvalgt kan ikke samtidig inneha verv som leder i den samme komiteen eller være medlem av Debug. Dersom en tillitsvalgt velges til leder i sin komité eller blir medlem av Debug, skal det gjennomføres nyvalg av tillitsvalgt på førstkommende møte.
+
 Kun medlemmer av linjeforeningen kan inneha verv i en komité. Dersom studenten ikke lengre kvalifiserer til medlemskap i linjeforeningen kan vervet fortsette etter avtale med Hovedstyret.
 
 En person kan ikke inneha verv i flere av Onlines komiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom, Backlog, FeminIT og nodekomiteer kan kombineres med en annen komite.
