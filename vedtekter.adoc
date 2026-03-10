@@ -260,6 +260,7 @@ Begge forsamlingene skal behandle halvårsmelding, innsendte saker og vedtektsen
 
 * Innkalling skal sendes ut til medlemmene senest _fire (4) uker_ før generalforsamlingen skal avholdes.
 * Saksforslag og forslag til vedtektsendringer sendes Hovedstyret senest _to (2) uker_ før generalforsamlingen skal avholdes.
+** Dersom innsender ønsker å trekke et saksforslag eller forslag til vedtektsendering etter utløpt innsendingsfrist, skal dette informeres om til hovedstyret. Trukket sak må åpnes for at andre medlemmer kan fremme den. Dersom ingen har meldt interesse for trukket sak innen utsendelse av saksliste, kan den trukkede saken strykes.
 * Fullstendig saksliste med forslag til vedtektsendringer skal tilgjengeliggjøres senest _en (1) uke_ før møtedato. Denne skal også inneholde årsmelding, revidert regnskap, vedtatt budsjett for året og eventuelle andre relevante sakspapirer.
 * Referat fra generalforsamlingen skal korrekturleses og godkjennes av Hovedstyret, og sendes til medlemmene eller gjøres tilgjengelig for medlemmene senest _14 dager_ etter generalforsamlingen.
 
