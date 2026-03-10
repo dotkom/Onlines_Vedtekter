@@ -298,6 +298,8 @@ Medlemmer av linjeforeningen som ikke har mulighet til å møte i tide plikter �
 
 Generalforsamlingen kan vedta å gi medlemmer av linjeforeningen som kommer for sent, og ikke har informert om dette, stemmerett når vedkommende ankommer.
 
+Ordstyrer frasier seg stemmeretten under generalforsamlingen.
+
 === 5.6 Gjennomføring av valg
 
 Dersom det er mer enn en kandidat til et verv skal det avholdes hemmelig valg for vervet. Man kan stemme på “ingen” for å vise at man ikke ønsker noen av kandidatenene. Stemmetallet for personvalg der det skal fylles én stilling er 50% av avgitte stemmer, blanke stemmer teller ikke som avgitte stemmer.
