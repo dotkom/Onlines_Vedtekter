@@ -26,7 +26,6 @@ Online skal arbeide for å skape sterkere bånd mellom medlemmer på ulike årst
 Studenter ved følgende studier ved NTNU har rett til å bli medlem av linjeforeningen:
 
 * Bachelor i informatikk (BIT)
-* Master i informatikk (MIT)
 * Master of Science in Informatics (MSIT)
 * PhD-kandidater ved Institutt for datateknologi og informatikk ved NTNU, som har tatt en bachelor eller master i informatikk
 
@@ -52,7 +51,7 @@ Hovedstyret kan, ved skjellig grunn, utestenge medlemmer fra linjeforeningen, mi
 
 === 3.4 Adgang for andre til å bli sosialt medlem
 
-Studenter ved andre fakulteter og linjer som har informatikk som et av sine hovedstudier kan søke om sosialt medlemskap. Søknaden sendes inn til Hovedstyret med dokumentasjon på at vedkommende tar alle obligatoriske emner ved informatikk. 
+Studenter ved andre fakulteter og linjer som har informatikk som et av sine hovedstudier kan søke om sosialt medlemskap. Søknaden sendes inn til Hovedstyret med dokumentasjon på at vedkommende tar alle obligatoriske emner ved informatikk.
 
 == 4 Struktur, ledelse og organisasjon
 
@@ -74,7 +73,7 @@ Dersom noen av Hovedstyrets medlemmer blir fraværende i den grad at det går ut
 
 ==== 4.1.3 Krav til kandidater
 
-Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom en kandidat blir tatt opp til Hovedstyret, må de permitteres fra alle eventuelle verv i Onlines komiteer, nodekomiteer og Debug, og kan ikke inneha disse vervene så lenge de sitter i styret. Det eneste unntaket er Økonomiansvarlig i Online som plikter å sitte i bankom.
+Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom en kandidat blir tatt opp til Hovedstyret, må de permitteres fra alle eventuelle verv i Onlines komiteer, nodekomiteer og Debug, og kan ikke inneha disse vervene så lenge de sitter i styret. Det eneste unntaket er Økonomiansvarlig i Online som plikter å sitte i bankom og fondstyret.
 
 ==== 4.1.4 Valg av Hovedstyre
 
@@ -134,7 +133,7 @@ Komiteens hovedoppgave er å forbedre linjeforeningen gjennom selvvalgte prosjek
 
 Komiteens oppgave er å organisere idrettsgrupper og idrettsarrangementer for linjeforeningens medlemmer. Komiteens navn forkortes Online IL.
 
-==== 4.2.10 Applikasjonskomiteen 
+==== 4.2.10 Applikasjonskomiteen
 
 Komiteens hovedoppgave er å utvikle og drifte egne it-systemer. Komiteens navn forkortes appkom.
 
@@ -322,9 +321,9 @@ Medlemmer som ble valgt til valgkomiteen ved forrige generalforsamling, kan ikke
 
 Alle styringsdokumenter i Online er underlagt vedtektene.
 
-=== 6.1 Foretningsorden
+=== 6.1 Forretningsorden
 
-Forretningsorden regulerer hvordan generalforsamlingen gjennomføres. Den godkjennes av generalforsamlingen og er i effekt frem til en ny forretningsorden er godkjent.
+Forretningsordenen regulerer hvordan generalforsamlingen gjennomføres. Den godkjennes av generalforsamlingen og er i effekt frem til en ny forretningsorden er godkjent.
 
 === 6.2 Retningslinjer for komiteene
 
