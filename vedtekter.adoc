@@ -387,6 +387,10 @@ Onlines Fond er definert ved Onlines Fonds vedtekter som eksisterer som vedlegg 
 
 Hovedstyret skal under Onlines ordinære generalforsamling legge frem saksforslag om et beløp som skal overføres til Onlines Fond.
 
+=== 7.4 Revisor
+
+Hovedstyret har ansvar for å oppnevne en revisor når dette kreves. Revisor kan ikke sitte i Hovedstyret i Online eller i Bank- og økonomikomiteen i Online.
+
 === 8 Oppløsning av linjeforeningen
 
 ==== 8.1 Vedtak
