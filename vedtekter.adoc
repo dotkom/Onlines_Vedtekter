@@ -284,7 +284,7 @@ For at en generalforsamling skal være beslutningsdyktig må det laveste mellom 
 
 ==== 5.4.1 Saker
 
-Alle saker på generalforsamlingen fattes med simpelt flertall.
+Alle saker på generalforsamlingen, inkludert saksforslag jf. §5.7, fattes med simpelt flertall.
 
 ==== 5.4.2 Vedtekter
 
@@ -319,6 +319,16 @@ Personer som innehar et av følgende verv under Generalforsamlingen, fraskriver 
 Med å stille til andre valg menes det at man ikke kan stille, eller bli nominert, til andre verv under Generalforsamlingen og valg til Hovedstyret
 
 Medlemmer som ble valgt til valgkomiteen ved forrige generalforsamling, kan ikke stille til verv i Hovedstyret.
+
+=== 5.7 Saksforslag
+
+Et saksforslag er et forslag fremmet til en generalforsamling om at linjeforeningen skal ta stilling til en konkret sak, uten å innebære endringer i vedtektene. Saksforslag kan gjelde tiltak som iverksettes umiddelbart, eller oppgaver som Hovedstyret eller komiteene skal arbeide med i inneværende periode.
+
+Ethvert medlem av linjeforeningen kan fremme saksforslag til generalforsamlingen, jf. §5.1.
+
+Vedtatte saksforslag er bindende for Hovedstyret og/eller berørte komiteer i opptil tre (3) år. Dersom det ikke defineres i saksforslaget, gjelder saksforslaget i ett (1) år. Ved generalforsamlingen i semesteret saken har utløpt, skal Hovedstyret rapportere om status for vedtatte saksforslag.
+
+Dersom gjennomføring av et vedtatt saksforslag viser seg å være juridisk umulig, økonomisk uforsvarlig eller i strid med linjeforeningens vedtekter, kan Hovedstyret med kvalifisert flertall 2/3 vike forpliktelsen. Hovedstyret plikter i så fall å informere medlemmene om dette, og begrunne avgjørelsen skriftlig.
 
 == 6 Andre Styringsdokumenter
 
