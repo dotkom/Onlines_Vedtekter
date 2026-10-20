@@ -155,7 +155,7 @@ Komiteens hovedoppgave er å organisere fadderperiode for nye studenter. Komitee
 
 ==== 4.3.3 Ekskursjonskomiteen
 
-Komiteens hovedoppgave er å organisere hovedekskursjonen. Komiteens navn forkortes ekskom. Ekskursjonskomiteen opererer frittstående fra linjeforeningen, som en egen organisasjon.
+Komiteens hovedoppgave er å organisere hovedekskursjonen. Ekskursjonskomiteen er organisert under dotDAGENE, jf. §4.4.6, og er underlagt dotDAGENEs styre. Komiteens navn forkortes ekskom.
 
 === 4.4 Andre grupper tilknyttet Online
 
@@ -178,6 +178,10 @@ Gruppens hovedoppgave er å fungere som linjeforeningens uavhengige varslingsorg
 ==== 4.4.5 Datakameratene FK Gløshaugen
 
 Datakameratene FK Gløshaugens hovedoppgave er å gi et lavterskel fotballtilbud for studenter ved linjene datateknologi, cybersikkerhet og datakommunikasjon og informatikk ved NTNU. Datakameratene FK er frittstående fra linjeforeningen.
+
+==== 4.4.6 dotDAGENE
+
+dotDAGENEs hovedoppgave er å skape et bindeledd mellom informatikkstudenter og næringslivet, samt å organisere hovedekskursjonen gjennom Ekskursjonskomiteen. dotDAGENE er frittstående fra Online. Samarbeidet mellom Online og dotDAGENE reguleres av en årlig intensjonsavtale.
 
 === 4.5 Interessegrupper
 
