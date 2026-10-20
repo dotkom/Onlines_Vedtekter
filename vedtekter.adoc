@@ -288,7 +288,7 @@ Alle saker på generalforsamlingen, inkludert saksforslag jf. §5.7, fattes med 
 
 ==== 5.4.2 Vedtekter
 
-Vedtektsendringer avgjøres med 2/3 kvalifisert flertall. Hovedstyret kan gjøre redaksjonelle endringer i vedtektene.
+Vedtektsendringer fremmes som vedtektsforslag jf. §5.8, og avgjøres med kvalifisert 2/3 flertall. Hovedstyret kan gjøre redaksjonelle endringer i vedtektene.
 
 === 5.5 Stemmeberettigelse og talerett
 
@@ -329,6 +329,17 @@ Ethvert medlem av linjeforeningen kan fremme saksforslag til generalforsamlingen
 Vedtatte saksforslag er bindende for Hovedstyret og/eller berørte komiteer i opptil tre (3) år. Dersom det ikke defineres i saksforslaget, gjelder saksforslaget i ett (1) år. Ved generalforsamlingen i semesteret saken har utløpt, skal Hovedstyret rapportere om status for vedtatte saksforslag.
 
 Dersom gjennomføring av et vedtatt saksforslag viser seg å være juridisk umulig, økonomisk uforsvarlig eller i strid med linjeforeningens vedtekter, kan Hovedstyret med kvalifisert flertall 2/3 vike forpliktelsen. Hovedstyret plikter i så fall å informere medlemmene om dette, og begrunne avgjørelsen skriftlig.
+
+=== 5.8 Vedtektsforslag
+
+Et vedtektsforslag er et forslag fremmet til en generalforsamling om å legge til, endre eller fjerne en eller flere bestemmelser i linjeforeningens vedtekter.
+
+Ethvert medlem av linjeforeningen kan fremme vedtektsforslag til generalforsamlingen, jf. §5.1.
+
+Et vedtektsforslag skal inneholde en begrunnelse for endringen, hvilken paragraf som berøres, og både gjeldende og foreslått ordlyd.
+
+Vedtatte endringer trer i kraft når generalforsamlingen er hevet, med mindre annet er definert i det vedtatte vedtektsforslaget.
+
 
 == 6 Andre Styringsdokumenter
 
